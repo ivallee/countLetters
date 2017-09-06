@@ -11,4 +11,4 @@ function countLetters(string) {
   return output;
 }
 
-console.log(countLetters('light house labs'));
+console.log(countLetters('lighthouse in the house'));
